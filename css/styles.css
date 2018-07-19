@@ -1,0 +1,38 @@
+/*Base styles*/
+* {
+   box-sizing: border-box;
+}
+/*Styles*/
+.nav-brand {
+   font-family: 'Rubik Mono One', sans-serif;
+   color: #F1C40F;
+   text-shadow: 2px 2px 2px black; 
+}
+
+.navbar-nav {
+   font-family: 'Montserrat', sans-serif;
+   text-align: Center;
+}
+
+h2 {
+   font-family: 'Montserrat', sans-serif;
+   text-align: center;
+   margin:10px;
+}
+
+a.item-link {
+   font-family: 'Montserrat', sans-serif;
+   color: olive;
+   text-decoration: none;
+   font-size: 2em;
+   padding: 5px;
+}
+
+#menu-disctiption {
+   font-family: 'Montserrat', sans-serif;
+}
+.navbar-inverse
+{
+    background-color:olive;
+    border-color:black;
+}
